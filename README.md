@@ -15,11 +15,11 @@ The Emojifier is implemented in two ways:
 
 2. Emojifier - V2
 
-<img src="images/emojifier-v2.png" style="width:700px;height:700px;">
+<img src="images/emojifier-v2.png" style="width:900px;height:700px;">
 
 ### Dataset
 
-<img src="images/data_set.png" style="width:700px;height:500px;">
+<img src="images/data_set.png" style="width:900px;height:500px;">
 
 ## Setup
 1. Clone this repository
